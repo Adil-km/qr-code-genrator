@@ -1,12 +1,13 @@
 <h1>QR Code Generator using Js</h1>
 <p>This is a simple JavaScript project that generates QR codes using an API.</p>
 <p>The main goal of this project is to help me understand how APIs work and how to fetch data from them.</p>
+<p>👉 <a href="https://qr-code-demo.pages.dev/">Vist site</a></p>
 
 <h2>📌 Purpose of the Project</h2>
 <ul>
-  <li>✅Learn how to send requests to an API</li>
-  <li>✅Understand how to handle API responses in JavaScript</li>
-  <li>✅Display API-generated content dynamically on a webpage</li>
+  <li>✅ Learn how to send requests to an API</li>
+  <li>✅ Understand how to handle API responses in JavaScript</li>
+  <li>✅ Display API-generated content dynamically on a webpage</li>
 </ul>
 
 <h2>🛠 Technologies Used</h2>
