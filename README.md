@@ -4,9 +4,9 @@
 
 <h2>📌 Purpose of the Project</h2>
 <ul>
-  <li>Learn how to send requests to an API</li>
-  <li>Understand how to handle API responses in JavaScript</li>
-  <li>Display API-generated content dynamically on a webpage</li>
+  <li>✅Learn how to send requests to an API</li>
+  <li>✅Understand how to handle API responses in JavaScript</li>
+  <li>✅Display API-generated content dynamically on a webpage</li>
 </ul>
 
 <h2>🛠 Technologies Used</h2>
@@ -25,4 +25,4 @@
 </ol>
 
 <h2>🔗 API Used</h2>
-<p>This project uses the QR Code API from <a href="https://cdnjs.com/libraries/qrcodejs">cdnjs qrcode js</a></p>
+<p>In this project I used the Qr code API from <a href="https://cdnjs.com/libraries/qrcodejs">cdnjs qrcode js</a></p>
